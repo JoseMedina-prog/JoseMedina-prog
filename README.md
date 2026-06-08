@@ -117,15 +117,6 @@ Dashboard con métricas, gráficos interactivos, gestión de ingresos/gastos por
 
 ---
 
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoseMedina-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🎯 Lo que estoy haciendo ahora
 
 - 🔨 **Mejorando** Bookify Pro con nuevas features (calendario avanzado, notificaciones)
