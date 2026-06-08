@@ -117,14 +117,6 @@ Dashboard con métricas, gráficos interactivos, gestión de ingresos/gastos por
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoseMedina-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMedina-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
 
 <div align="center">
 
